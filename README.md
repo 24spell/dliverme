@@ -6,6 +6,7 @@ Ferramentas e linguagens utilizadas:
 - HTML
 - JavaScript
 - Bootstrap
+- Canva
 - Visual Studio Code
 
 Página inicial/Banner:
