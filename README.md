@@ -12,4 +12,6 @@ Ferramentas e linguagens utilizadas:
 Página inicial/Banner:
 
 <img src="dliver-banner.png"/>
+<br/>
+<img src="dliver-banner2.png"/>
 
