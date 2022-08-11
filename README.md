@@ -8,5 +8,7 @@ Ferramentas e linguagens utilizadas:
 - Bootstrap
 - Visual Studio Code
 
+Página inicial/Banner:
+
 <img src="dliver-banner.png"/>
 
